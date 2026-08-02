@@ -1,0 +1,2 @@
+# Ekta-Pos
+Only Sales
